@@ -129,7 +129,7 @@ class Data extends Component {
               </div>
               <div className="modal-footer">
                 <button
-                  onClick={this.handleBtnClick}
+                  onClick={this.buttonClick}
                   id="add-employee" type="button" className="btn btn-outline-dark" data-dismiss="modal">Add</button>
               </div>
             </div>

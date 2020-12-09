@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Link to deployed site: [Employee Directory](https://salty-escarpment-91898.herokuapp.com/)
+Link to deployed site: [Employee Directory](https://calm-crag-68916.herokuapp.com/)
 
 ## Description
 Asked to build a React App so the user can view an employee directory containing non-sensitive information about their employees. The user can sort the tables and filter the tables to find specific information about an employee.
